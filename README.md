@@ -1,6 +1,7 @@
 # VBA-challenge
 VBA homework - Stefanie Gagnon
 
+
 Option Explicit
 
 Sub multiyrstockdata()
